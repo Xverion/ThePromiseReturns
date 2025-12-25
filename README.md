@@ -15,7 +15,7 @@ A Dalamud plugin for Final Fantasy XIV that spawns Koana as a persistent client-
 2. Go to the **Experimental** tab
 3. Under **Custom Plugin Repositories**, add:
    ```
-   https://raw.githubusercontent.com/ThePromiseReturns/ProjectSecondPromise/main/repo.json
+   https://raw.githubusercontent.com/Xverion/ThePromiseReturns/main/repo.json
    ```
 4. Click the **+** button, then **Save and Close**
 5. Open the Plugin Installer with `/xlplugins`
