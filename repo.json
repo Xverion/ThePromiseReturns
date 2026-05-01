@@ -9,7 +9,7 @@
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/Xverion/ThePromiseReturns",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "Tags": [
       "koana",
       "npc",
